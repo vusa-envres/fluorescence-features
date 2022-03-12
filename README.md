@@ -18,4 +18,13 @@ If you use this code please cite the paper using the bibtex reference below.
 }
 ```
 
+Installation
+-----------------
+This code is compatible with Python 3.8 and was written with PyTorch version 1.10.0.
+
+The primary dependencies are:
+
+* [Numpy](https://numpy.org/) version 1.20.3
+* [Json](https://github.com/ramonhagenaars/jsons) version 2.0.9
+* [PyTorch](https://pytorch.org/) version **1.10.0**
 
