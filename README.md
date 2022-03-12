@@ -1,7 +1,7 @@
 # fluorescence-features
 A neural network to process Rapid-E device fluorescence features for pollen recognition
 
-The model is descibed in the paper:
+The model is descibed in the [paper](https://amt.copernicus.org/articles/12/3435/2019/):
 Šaulienė, I., Šukienė, L., Daunys, G., Valiulis, G., Vaitkevičius, L., Matavulj, P., Brdar, S., Panic, M., Sikoparija, B., Clot, B., Crouzy, B., & Sofiev, M. (2019). Automatic pollen recognition with the Rapid-E particle counter: the first-level procedure, experience and next steps. Atmospheric Measurement Techniques, 12(6), 3435-3452.
 
 If you use this code please cite the paper using the bibtex reference below.
