@@ -49,8 +49,7 @@ THR = 1500
 num_classes = 16
 num_features = 96
 
-#fluor_model_path = os.path.join('','model_fl_lsr2.pth')
-fluor_model_path = 'checkpoints/model_fl_lsr2.pth'
+fluor_model_path = 'checkpoints/model.pth'
 state_dict = torch.load(fluor_model_path)
 model = Net(num_features=num_features, num_classes=num_classes)
 model.load_state_dict(state_dict)
